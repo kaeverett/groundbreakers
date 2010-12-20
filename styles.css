@@ -1,0 +1,93 @@
+* {margin:0; padding:0;}
+ body {
+		 background:#000;
+	     color:#fff; 
+		 font-family:verdana,sans-serif; 
+		 text-align:center;
+		 font-size:10pt;
+		 line-height:1.8em;
+		 
+		 }
+a {color:#CCC;}
+a:hover {color:#666;}
+#frame {}
+#wrapper {
+		width:800px; /* sets max layout width */
+		 /* sets min layout width */
+		margin-left:auto;  /* centers layout in browser */
+		margin-right:auto; /* centers layout in browser */
+		text-align:left; /* resets the centering hack for IE6 on the body tag */
+		
+		}	
+#header {margin-left:-70px;overflow:visible;} 
+#header {
+		height:280px;
+		/*background-color:#999;*/
+		}
+#header{background-image:url(images/logo.gif);background-repeat:no-repeat;}	
+#header h3 {
+		font-variant:small-caps;
+		float:right;
+		font-size:1.8em; 
+		padding:90px 20px 20px 20px ;
+		margin-right:40px;
+		background-image:url(images/line500.gif);background-repeat:no-repeat; background-position:bottom;
+		}
+		
+#content {	
+		margin-bottom:40px;
+		margin-top: -120px;
+		padding:0;
+		margin-left:2px;
+		margin-right:auto;
+		}
+		
+#side_nav {
+		background-color:#333;
+		width:230px; 
+		float:left;
+		margin: 0 5px;
+		padding: 0 10px;
+		min-height:300px;
+		/*border-left:1px solid #fff;
+		border-right:1px solid #fff;*/
+		}
+#side_nav p{
+		margin:20px 15px 10px;	}
+#side_nav form{
+		margin:0 15px 15px;	}
+#aboutme {
+		float:left;
+		width:230;
+		margin: 0 5px;
+		padding:0 5px;
+		/*border-left:1px solid #fff;
+		border-right:1px solid #fff;*/
+		min-height:300px;
+		}
+#aboutme p{margin:90px 20px;}
+	
+#homework {
+		width:230px;
+		float:left;
+		margin: 0 5px;
+		padding:0 10px;
+		min-height:300px;
+		/*border-left:1px solid #fff;
+		border-right:1px solid #fff;*/
+		}
+#homework p{margin:20px 45px;	}
+	
+#homework ul {
+		margin-left:60px;
+		margin-top:20px;
+		}
+	
+#footer {
+		/*background-image:url(images/line500.gif);background-repeat:repeat-x; background-position:top;*/
+		/*border-top:1px solid #fff;*/
+		margin-top:20px;
+		padding:15px;
+		clear:both;
+		text-align:center;
+		color:#F00;}

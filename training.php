@@ -42,16 +42,18 @@
            
       <div id="content">
       		<div id="content_left">
-               <p><strong>The Farm</strong></p>
-        	<ul>
-            	<li class="active"><a href="farm.php">About Farm</a></li>
-                <li><a href="farm_directions.php">&raquo; Directions</a></li>
-               
-            </ul>
+	            <p><strong>How It Works</strong></p>
+	        	<ul>
+	                <li class="active"><a href="farming.php">Vocational Farming</a></li>
+	                <li class="active"><a href="training.php">Training Program Overview</a></li>
+	                <li class="active"><a href="farm.php">About the Farm</a></li>
+	                <li class="active"><a href="farm_directions.php">Directions</a></li>               
+	            </ul>
                         
       		</div><!--end content left-->
       
             <div id="content_right">
+            <h2>TRAINING</h2> 	
             <h4>TRAINING PROGRAM OVERVIEW</h4> 
             <p>The Students spend 16 weeks training in a variety of ways:</p>
 

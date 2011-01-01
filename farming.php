@@ -42,19 +42,18 @@
            
       <div id="content">
       		<div id="content_left">
-               <p><strong>The Farm</strong></p>
+               <p><strong>How It Works</strong></p>
         	<ul>
-            	<li class="active"><a href="farm.php">About Farm</a></li>
-                <li><a href="farm_directions.php">&raquo; Directions</a></li>
-               
+                <li class="active"><a href="farming.php">Vocational Farming</a></li>
+                <li class="active"><a href="training.php">Training Program Overview</a></li>
+                <li class="active"><a href="farm.php">About the Farm</a></li>
+                <li class="active"><a href="farm_directions.php">Directions</a></li>               
             </ul>
-            
-           
-           <!--<p><img src="images/eggplant.jpg" alt="eggplant" /></p>-->
-            
+                        
       		</div><!--end content left-->
       
             <div id="content_right">
+			<h2>VOCATIONAL FARMING</h2>
             <h4>VOCATIONAL FARMING</h4> 
             <p>
             	The goal of Groundbreakers is to prepare unemployed, underemployed or previously incarcerated persons, and homeless adults for careers in farming, plant nurseries, landscaping, or parks and recreation.</p>

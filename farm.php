@@ -42,12 +42,13 @@
            
       <div id="content">
       		<div id="content_left">
-               <p><strong>The Farm</strong></p>
-        	<ul>
-            	<li class="active"><a href="farm.php">About Farm</a></li>
-                <li><a href="farm_directions.php">&raquo; Directions</a></li>
-               
-            </ul>
+	            <p><strong>How It Works</strong></p>
+	        	<ul>
+	                <li class="active"><a href="farming.php">Vocational Farming</a></li>
+	                <li class="active"><a href="training.php">Training Program Overview</a></li>
+	                <li class="active"><a href="farm.php">About the Farm</a></li>
+	                <li class="active"><a href="farm_directions.php">Directions</a></li>               
+	            </ul>
             
            
            <!--<p><img src="images/eggplant.jpg" alt="eggplant" /></p>-->

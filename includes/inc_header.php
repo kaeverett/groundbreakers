@@ -28,7 +28,7 @@
                                 <li><a href="about_partners.php">Partners &amp; Supporters</a></li>
                             </ul>
                              <ul id="menuSubTwo" class="menuVert" onMouseOver="setMenu('menuSubTwo')" onMouseOut="clearMenu('menuSubTwo')">
-                                 <li><a href="farm.php">Vocational Farming</a></li>
+                                 <li><a href="farming.php">Vocational Farming</a></li>
                                  <li><a href="farm.php">Training Program Overview</a></li>
                                  <li><a href="farm.php">About the Farm</a></li>
                                  <li><a href="farm_directions.php">Directions</a></li>

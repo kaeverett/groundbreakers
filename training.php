@@ -64,7 +64,6 @@
 			<h5>30 minutes weekly (8 hrs/class cycle)</h5>
 			<p>Students meet individually with our staff and volunteers on a weekly basis to identify and discuss personal and professional goals. These sessions also include scheduling appointments for services such as rental assistance, mental health and dental health appointments, affordable housing, child care and energy assistance. Students also discuss program progress during these sessions.</p>
 
-
 			Vocational Farm Training/Coursework: 500 hours
 			Monday – Friday 
 			Students participate in six modules covering the following competencies:

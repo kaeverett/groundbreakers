@@ -55,11 +55,73 @@
       		</div><!--end content left-->
       
             <div id="content_right">
-            <h2>CONTRIBUTE</h2>
-                <p>Groundbreakers, a 501 (c) 3 nonprofit, is made possible by 
-                the generous support of individuals, organizations and corporations. 
-                There are four ways that you can give to Groundbreakers:</p>
-                <ul>
+	
+	            <h2>CONTRIBUTE</h2>
+				<p>Groundbreakers is currently an all volunteer staff, so we depend on your contributions to run our program. </p>
+				<br/>
+				<p>In our first 6 months of operation, we delivered enough fresh produce to help serve more than 3,700 meals for economically disadvantaged families in King County, Washington.  Our volunteers contributed over 400 hours on our farm, and a number of local and national businesses contributed and supported us, including Bastyr University, FareStart, Fred Meyer, Lowes, Home Depot, My Garden Nursery, Herbco International Farms, Full Circle Farm, Oxbow Farm and more! Groundbreakers has a tremendous opportunity to expand our social impact—but only with the support of generous individuals and organizations. Please consider joining our Private or Corporate Donor Clubs today.</p>
+				
+				<h4>PRIVATE DONOR CLUB LEVELS:</h4> 
+            	<table>
+					<tr>
+						<td align='left' width='120'>Friend</td>
+						<td align='left' width='150'>$30 - $99</td>
+						<td align='right'>A $30 contribution pays for 1 person to have enough vegetables for 39 days</td>					
+					</tr>
+					<tr>			
+						<td align='left'>Contributor</td>
+						<td align='left'>$100 - $249</td>
+						<td align='right'>Just $100 pays for the field gear and tools necessary for 1 student’s training for 4 months</td>														
+					</tr>
+					<tr>			
+						<td align='left'>Benefactor</td>
+						<td align='left'>$250 - $499</td>
+						<td align='right'>Your $350 donation affords 1 month of transportation for students to the farm and shelter</td>							
+					</tr>
+					<tr>			
+						<td align='left'>Patron</td>
+						<td align='left'>$500 +</td>
+						<td align='right'>Provides enough farming hand-tools for over 25 students and volunteers</td>							
+					</tr>
+					<tr>			
+						<td align='left'>Partner</td>
+						<td align='left'>$1,000 +</td>
+						<td align='right'>Buys enough local seed, irrigation, manure and supplies to help provide over 1,270 meals</td>							
+					</tr>
+					<tr>			
+						<td align='left'>Guardian</td>
+						<td align='left'>$2,000 +</td>
+						<td align='right'>Supports 1 student to secure employment within 90 days after graduation</td>							
+					</tr>
+				</table>
+		            								
+				<h4>CORPORATE DONOR CLUB LEVELS:</h4> 
+	           	<table>
+					<tr>
+						<td align='left' width='200'>Corporate Benefactor</td>
+						<td align='left' width='100'>$1,500 +</td>
+						<td align='right'>Pays for the field training of 4 students for 2 weeks</td>					
+					</tr>
+					<tr>			
+						<td align='left'>Corporate Patron</td>
+						<td align='left'>$5,000 +</td>
+						<td align='right'>Purchases metal-framed hoop houses for specialty crops & maximized yield</td>														
+					</tr>
+					<tr>			
+						<td align='left'>Corporate Partner</td>
+						<td align='left'>$10,000 +</td>
+						<td align='right'>Provides enough vegetables to feed 120 people 3 meals a day for more than a month</td>														
+					</tr>
+					<tr>			
+						<td align='left'></td>
+						<td align='left'></td>
+						<td align='right'><a href="mailto:info@thegroundbreakers.org>?subject=donation information">
+						[To learn more, email info@thegroundbreakers.org]</a></td>														
+					</tr>
+				</table>
+				
+				<p>Here are four ways that you can give to Groundbreakers:</p>
+				<ul>		
                 	<li><a href="#contributeonline">Contribute Online</a></li>
                     <li><a href="#contributebymail">Contribute by Mail</a></li>
                     <li><a href="#contributeforstudents">Contribute Items for Students</a></li>

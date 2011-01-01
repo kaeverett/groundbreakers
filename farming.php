@@ -75,14 +75,6 @@
 			<p>Throughout the program, Groundbreakers teaches the importance of job-readiness skills such as positive work attitude, teamwork, punctuality, computer literacy, resume writing, and interviewing techniques.</p>
 			<p>Groundbreakers can offer a constructive solution and help end the difficult cycle of homelessness and unemployment in King County. This is a solution that works for everyone: employers get qualified employees, and men and women in need of a good job get work in their field of interest.</p>
 
-
-            <h4>Community Garden</h4> 
-            <p>The Community Garden has twenty 12'x12' plots available for use by students and volunteers for free.  
-            Groundbreakers will provide organic certified seed, irrigation and tools. In exchange, Groundbreakers 
-            asks that the owner of each plot volunteer and maintain responsibility for weeding and harvesting food 
-            for 2 of our farm beds (approximately 900 sq. ft.). </p><p>Land availability may be limited.  
-            Donations are welcomed and help to cover operating costs (i.e. purchasing seeds, tools, and gardening 
-            literature) for the Community Garden.</p>
             
             </div> <!--end content right-->
        </div><!--end content-->

@@ -48,6 +48,9 @@
                 <li><a href="about_leadership.php">&raquo; Leadership Bios</a></li>
                 <li><a href="about_partners.php">&raquo; Partners &amp; Supporters</a></li>
             </ul>
+            <<a href="getinvolved_donate.php">
+            		<img src="images/contribute_button.jpg" alt="contribute"/>
+            </a>
       		</div><!--end content left-->
      
          <div id="content_right">

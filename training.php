@@ -50,6 +50,10 @@
 	                <li class="active"><a href="farm_directions.php">Directions</a></li>               
 	            </ul>
                         
+	            <<a href="getinvolved_donate.php">
+	            		<img src="images/contribute_button.jpg" alt="contribute"/>
+	            </a>
+
       		</div><!--end content left-->
       
             <div id="content_right">

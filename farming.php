@@ -49,6 +49,9 @@
                 <li class="active"><a href="farm.php">About the Farm</a></li>
                 <li class="active"><a href="farm_directions.php">Directions</a></li>               
             </ul>
+            <<a href="getinvolved_donate.php">
+            		<img src="images/contribute_button.jpg" alt="contribute"/>
+            </a>
                         
       		</div><!--end content left-->
       

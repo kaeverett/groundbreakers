@@ -50,10 +50,10 @@
 	                <li class="active"><a href="farm.php">About the Farm</a></li>
 	                <li class="active"><a href="farm_directions.php">Directions</a></li>               
 	            </ul>
-            
-           
-          <p><img src="images/eggplant.jpg" alt="eggplant" />
-            
+	            <<a href="getinvolved_donate.php">
+	            		<img src="images/contribute_button.jpg" alt="contribute"/>
+	            </a>       
+          		<p><img src="images/eggplant.jpg" alt="eggplant" />           
       		</div><!--end content left-->
       
             <div id="content_right">

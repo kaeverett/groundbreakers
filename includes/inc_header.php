@@ -17,7 +17,7 @@
                        <ul id="menuOne" class="menuHoriz">
                                 <li><a href="index.html"><strong>Home</strong></a></li>
                                 <li><a href="about_gb.php" onMouseOver="setMenu('menuSubOne')" onMouseOut="clearMenu('menuSubOne')"><strong>About Us</strong></a></li>
-                                <li><a href="farm.php" onMouseOver="setMenu('menuSubTwo')" onMouseOut="clearMenu('menuSubTwo')"><strong>How It Works</strong></a></li>
+                                <li><a href="farming.php" onMouseOver="setMenu('menuSubTwo')" onMouseOut="clearMenu('menuSubTwo')"><strong>How It Works</strong></a></li>
                                 <li><a href="getinvolved_donate.php" onMouseOver="setMenu('menuSubThree')" onMouseOut="clearMenu('menuSubThree')"><strong>Get Involved</strong></a></li>
                                 <li><a href="news_and_insights.php" target="_blank"><strong>News &amp; Insights</strong></a></li>
                                 <li><a href="contact.php"><strong>Contact</strong></a></li>

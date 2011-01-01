@@ -60,61 +60,79 @@
             	TheStudents spend 16 weeks training in a variety of ways:</p>
 			<p>	INSERT GRAPHIC </p>
 			
+			<br/>
 			<h5>Personal Life Sessions</h5> 
 			<h5>30 minutes weekly (8 hrs/class cycle)</h5>
 			<p>Students meet individually with our staff and volunteers on a weekly basis to identify and discuss personal and professional goals. These sessions also include scheduling appointments for services such as rental assistance, mental health and dental health appointments, affordable housing, child care and energy assistance. Students also discuss program progress during these sessions.</p>
 
-			Vocational Farm Training/Coursework: 500 hours
-			Monday – Friday 
-			Students participate in six modules covering the following competencies:
-			1. Module One – Introduction to Plant Health, PathologyandPests
-			2. Module Two – Introduction to Composting, Cover CropsandRotation
-			3. Module Three – Introduction to Permaculture
-			4. Module Four – Introduction to GreenhousesandPropagation 
-			5. Module Five – HarvestingandFood Preservation
-			6. Module Six – ManagementandSafety
+			<br/>
+			<h5>Vocational Farm Training/Coursework: 500 hours</h5>
+			<h5>Monday – Friday </h5>
+			<p>Students participate in six modules covering the following competencies:</p>
+			<p>	
+				<ul>
+					<li>Module One – Introduction to Plant Health, PathologyandPests</li>
+					<li>Module Two – Introduction to Composting, Cover CropsandRotation</li>
+					<li>Module Three – Introduction to Permaculture</li>
+					<li>Module Four – Introduction to GreenhousesandPropagation</li>
+					<li>Module Five – HarvestingandFood Preservation</li>
+					<li>Module Six – ManagementandSafety</li>
+				</ul>
+			</p>
 
-			Field Trips: 4 Trips Quarterly
-			Wednesdays 9:30 – 12:00 (10 hrs/class cycle)
-			Oxbow Farm, Full Circle Farm, others to be determined
+			<br/>
+			<h5>Field Trips: 4 Trips Quarterly</h5>
+			<h5>Wednesdays 9:30 – 12:00 (10 hrs/class cycle)</h5>
+			<p>Oxbow Farm, Full Circle Farm, others to be determined</p>
 
-			Student Farming Competition– 1 Event Quarterly
-			Students participate in a growing competition featuring specific crops. Students will be graded by the quality of the produce, size, quantity and efficiency for growing each crop. The winning student will receive a prize and is taken to lunch at FareStart.  
+			<br/>
+			<h5>Student Farming Competition– 1 Event Quarterly</h5>
+			<p>Students participate in a growing competition featuring specific crops. Students will be graded by the quality of the produce, size, quantity and efficiency for growing each crop. The winning student will receive a prize and is taken to lunch at FareStart.</p>
+			
+			<br/>
+			<h5>Internships – 100 Hours per Student</h5>
+			<p>Students participate in two independent internships where they can experience working in various farming or gardening environments, which may include greenhouse stations, landscaping projects, community supported agriculture operations, packaging, and more.</p>
 
+			<br/>
+			<h5>Students are evaluated by mentors in the following areas:</h5>
+			<p>
+				<ul>
+					<li>Attendance and punctuality</li>
+					<li>Attitude</li>
+					<li>Ability to follow direction</li>
+					<li>Practical Skills and Application</li>
+					<li>Safety and Sanitation – Knowledge and Practice</li>
+					<li>Teamwork</li>
+				</ul>
+			</p>
 
-			Internships – 100 Hours per Student
-			Students participate in two independent internships where they can experience working in various farming or gardening environments, which may include greenhouse stations, landscaping projects, community supported agriculture operations, packaging, and more. 
+			<br/>
+			<h5>Employment SkillsandJob Search: 2 Weeks (80 hours)</h5>
+			<p>
+				The last two weeks of the program consist of a full-time job search, when students spend each day filling out applications and going on interviews. Our goal is to support all of our students to successfully obtain employment before they graduate. The employment component of the Vocational Farming Program begins with students examining their career goals, interests, and skills. This progresses to employment skills, when students learn how to fill out applications, write resumes and cover letters, interview successfully, and search for and apply to jobs on the Internet. A more detailed breakdown is as follows:
+			</p>
+			<p>
+				<ul>
+					<li>A Job vs. a Career</li>
+					<li>Skills Inventory</li>
+					<li>Employment Hurdles/Goal Setting</li>
+					<li>Work and Skills History</li>
+					<li>Using Email</li>
+					<li>Applications</li>
+					<li>Job Research on the Internet</li>
+					<li>Resumes</li>
+					<li>Online Applications</li>
+					<li>Mock Interviews</li>
+					<li>Punctuality, Positive Work Ethic and Professional Behavior</li>
+					<li>Mock Interview Sessions / Informational Interviews</li>
+					<li>Job Search</li>
+				</ul>
+			</p>
+			
+			<br/>
+			<h5>Graduate Support:</h5>
+			<p>Graduates are contacted monthly for one year following their graduation and receive support in the form of job advice, employment search assistance, and help with a variety of other social service resources.</p>
 
-
-			Students are evaluated by mentors in the following areas:
-		<br/>* Attendanceandpunctuality
-		<br/>* Attitude
-		<br/>* Ability to follow direction
-		<br/>* Practical SkillsandApplication
-		<br/>* SafetyandSanitation – KnowledgeandPractice
-		<br/>* Teamwork
-
-			Employment SkillsandJob Search: 2 Weeks (80 hours)
-			The last two weeks of the program consist of a full-time job search, when students spend each day filling out applications and going on interviews. Our goal is to support all of our students to successfully obtain employment before they graduate. The employment component of the Vocational Farming Program begins with students examining their career goals, interests, and skills. This progresses to employment skills, when students learn how to fill out applications, write resumes and cover letters, interview successfully, and search for and apply to jobs on the Internet. A more detailed breakdown is as follows:
-
-		<br/>* A Job vs. a Career
-		<br/>* Skills Inventory
-		<br/>* Employment Hurdles/Goal Setting
-		<br/>* Work and Skills History
-		<br/>* Using Email 
-		<br/>* Applications
-		<br/>* Job Research on the Internet 
-		<br/>* Resumes
-		<br/>* Online Applications 
-		<br/>* Mock Interviews
-		<br/>* Punctuality, Positive Work EthicandProfessional Behavior
-		<br/>* Mock Interview Sessions / Informational Interviews
-		<br/>* Job Search
-
-			Graduate Support:
-			Graduates are contacted monthly for one year following their graduation and receive support in the form of job advice, employment search assistance, and help with a variety of other social service resources.
-
-            
             </div> <!--end content right-->
        </div><!--end content-->
        

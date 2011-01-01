@@ -48,17 +48,14 @@
                 <li><a href="farm_directions.php">&raquo; Directions</a></li>
                
             </ul>
-            
-           
-           <!--<p><img src="images/eggplant.jpg" alt="eggplant" /></p>-->
-            
+                        
       		</div><!--end content left-->
       
             <div id="content_right">
             <h4>TRAINING PROGRAM OVERVIEW</h4> 
-            <p>
-            	TheStudents spend 16 weeks training in a variety of ways:</p>
-			<p>	INSERT GRAPHIC </p>
+            <p>The Students spend 16 weeks training in a variety of ways:</p>
+
+			<img src="images/training_schedule.png" alt="training schedule" />
 			
 			<br/>
 			<h5>Personal Life Sessions</h5> 

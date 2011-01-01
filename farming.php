@@ -60,17 +60,19 @@
             	The goal of Groundbreakers is to prepare unemployed, underemployed or previously incarcerated persons, and homeless adults for careers in farming, plant nurseries, landscaping, or parks and recreation.</p>
 			<p>	Up to 10 students may be enrolled in each class cycle. Participants attend training Monday through Friday each week, from 7:30 a.m. to 4:30 p.m. Groundbreakers offers students free transportation between the farm and Seattle each day.</p>
 			<p>	The 16-week curriculum includes "hands-on" training by our experienced Field Trainers. There will be no more than 4 students per Field Trainer. The program will cover the following:
-			<ul>	
-				<li>Farming Techniques and Methods</li>
-				<li>Plant Health, Pathology and Pests</li>
-				<li>Composting, Cover Crops and Rotation </li>
-				<li>Permaculture/Polyculture</li>
-				<li>Propagating and Greenhouse Basics</li>
-				<li>Harvesting and Food Preservation</li>
-				<li>Farm Management and Safety</li>
-				<li>2 Internships, 4 Field Trips and A Growing Competition</li>
-			</ul>	
             </p>
+        	<p>	
+				<ul>	
+					<li>Farming Techniques and Methods</li>
+					<li>Plant Health, Pathology and Pests</li>
+					<li>Composting, Cover Crops and Rotation </li>
+					<li>Permaculture/Polyculture</li>
+					<li>Propagating and Greenhouse Basics</li>
+					<li>Harvesting and Food Preservation</li>
+					<li>Farm Management and Safety</li>
+					<li>2 Internships, 4 Field Trips and A Growing Competition</li>
+				</ul>	
+        	</p>
 
 			<p>Throughout the program, Groundbreakers teaches the importance of job-readiness skills such as positive work attitude, teamwork, punctuality, computer literacy, resume writing, and interviewing techniques.</p>
 			<p>Groundbreakers can offer a constructive solution and help end the difficult cycle of homelessness and unemployment in King County. This is a solution that works for everyone: employers get qualified employees, and men and women in need of a good job get work in their field of interest.</p>

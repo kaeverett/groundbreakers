@@ -62,7 +62,7 @@
             <h4>Training Program Overview</h4> 
             <p>The Students spend 16 weeks training in a variety of ways:</p>
 
-			<img src="images/training_schedule.png" alt="training schedule" />
+			<p><img src="images/training_schedule.png" alt="training schedule"/></p>
 			
 			<br/>
 			<h5>Personal Life Sessions</h5> 
@@ -74,14 +74,14 @@
 			<h5>Monday – Friday </h5>
 			<p>Students participate in six modules covering the following competencies:</p>
 			<p>	
-				<ul>
+				<ul><ul>
 					<li>Module One – Introduction to Plant Health, PathologyandPests</li>
 					<li>Module Two – Introduction to Composting, Cover CropsandRotation</li>
 					<li>Module Three – Introduction to Permaculture</li>
 					<li>Module Four – Introduction to Greenhouses and Propagation</li>
 					<li>Module Five – Harvesting and Food Preservation</li>
 					<li>Module Six – Management and Safety</li>
-				</ul>
+				</ul></ul>
 			</p>
 
 			<br/>
@@ -100,23 +100,23 @@
 			<br/>
 			<h5>Students are evaluated by mentors in the following areas:</h5>
 			<p>
-				<ul>
+				<ul><ul>
 					<li>Attendance and punctuality</li>
 					<li>Attitude</li>
 					<li>Ability to follow direction</li>
 					<li>Practical Skills and Application</li>
 					<li>Safety and Sanitation – Knowledge and Practice</li>
 					<li>Teamwork</li>
-				</ul>
+				</ul></ul>
 			</p>
 
 			<br/>
-			<h5>Employment SkillsandJob Search: 2 Weeks (80 hours)</h5>
+			<h5>Employment Skills and Job Search: 2 Weeks (80 hours)</h5>
 			<p>
 				The last two weeks of the program consist of a full-time job search, when students spend each day filling out applications and going on interviews. Our goal is to support all of our students to successfully obtain employment before they graduate. The employment component of the Vocational Farming Program begins with students examining their career goals, interests, and skills. This progresses to employment skills, when students learn how to fill out applications, write resumes and cover letters, interview successfully, and search for and apply to jobs on the Internet. A more detailed breakdown is as follows:
 			</p>
 			<p>
-				<ul>
+				<ul><ul>
 					<li>A Job vs. a Career</li>
 					<li>Skills Inventory</li>
 					<li>Employment Hurdles/Goal Setting</li>
@@ -130,7 +130,7 @@
 					<li>Punctuality, Positive Work Ethic and Professional Behavior</li>
 					<li>Mock Interview Sessions / Informational Interviews</li>
 					<li>Job Search</li>
-				</ul>
+				</ul></ul>
 			</p>
 			
 			<br/>

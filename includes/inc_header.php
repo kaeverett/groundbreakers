@@ -1,6 +1,6 @@
   <div id="header">
                 
-               <div id="header_left"><a href="../index.index"><img src="images/GB_final_logo.gif" alt="" /></a></div>
+               <div id="header_left"><a href="../index.html"><img src="images/GB_final_logo.gif" alt="" /></a></div>
                 
          		 <div id="header_right"> 
                     

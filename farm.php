@@ -47,6 +47,7 @@
 	                <li class="active"><a href="farming.php">Vocational Farming</a></li>
 	                <li class="active"><a href="training.php">Training Program Overview</a></li>
 	                <li class="active"><a href="farm.php">About the Farm</a></li>
+	                <li class="active"><a href="results.php">Results</a></li>	
 	                <li class="active"><a href="farm_directions.php">Directions</a></li>               
 	            </ul>
                 <<a href="getinvolved_donate.php">

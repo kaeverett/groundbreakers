@@ -100,7 +100,6 @@
                             <ul id="menuSubThree" class="menuVert" onMouseOver="setMenu('menuSubThree')" onMouseOut="clearMenu('menuSubThree')">         
                                  <li><a href="getinvolved_donate.php">Contribute</a></li>
                                  <li><a href="getinvolved_volunteer.php">Volunteer</a></li>
-                                 <li><a href="getinvolved_wishlist.php">Wish List</a></li>
                             </ul>
                    </div><!--end menuTop-->
                    

@@ -77,9 +77,9 @@
 					<li>Module One – Introduction to Plant Health, PathologyandPests</li>
 					<li>Module Two – Introduction to Composting, Cover CropsandRotation</li>
 					<li>Module Three – Introduction to Permaculture</li>
-					<li>Module Four – Introduction to GreenhousesandPropagation</li>
-					<li>Module Five – HarvestingandFood Preservation</li>
-					<li>Module Six – ManagementandSafety</li>
+					<li>Module Four – Introduction to Greenhouses and Propagation</li>
+					<li>Module Five – Harvesting and Food Preservation</li>
+					<li>Module Six – Management and Safety</li>
 				</ul>
 			</p>
 

@@ -50,7 +50,6 @@
                 <ul>
                     <li class="active"><a href="getinvolved_donate.php">Contribute</a></li>
                     <li><a href="getinvolved_volunteer.php">&raquo; Volunteer</a></li>
-                    <li><a href="getinvolved_wishlist.php">&raquo; Wish List</a></li>
                 </ul>
       		</div><!--end content left-->
       
@@ -115,7 +114,8 @@
 					<tr>			
 						<td align='left'></td>
 						<td align='left'></td>
-						<td align='right'><a href="mailto:info@thegroundbreakers.org>?subject=donation information">
+						<td align='right'>
+							<a href="mailto:info@thegroundbreakers.org>?subject=donation information">
 						[To learn more, email info@thegroundbreakers.org]</a></td>														
 					</tr>
 				</table>
@@ -131,6 +131,7 @@
     
     			<a name="contributeonline"></a>
                 <h4>Contribute Online</h4> 
+				<p>NOTE: At this time, tax deductible donations are only being received by mail.</p>
                         <br/>
                         <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <input type="hidden" name="cmd" value="_s-xclick">
@@ -142,13 +143,17 @@
                         <br/>
     			<a name="contributebymail"></a>
                 <h4>Contribute by Mail</h4> 
-                    <p>Any amount is appreciated. Minimum Suggested Donation: $25. If donating by check, 
-                     please make your check out to "Groundbreakers" and mail to:</p>
-                     <p><strong>Groundbreakers<br />
-                         Attn: Development<br />
-                         P.O. Box 14370<br />
-                         Mill Creek, WA 98082</ br></strong></p>
-                    <p>Please contact our Development staff at (877) 771-GIVE, or email us at give@thegroundbreakers.org if you have any questions. Thank you for your support!</p>
+                    <p>Any amount is appreciated. Minimum Suggested Donation: $30. To make a tax-deductible donation, make your check payable to "EcoPraxis", indicate "Groundbreakers" in the memo field, and mail to:</p>
+                     <p><strong>
+					 	Groundbreakers<br/>
+						c/o EcoPraxis<br/>
+						5901 Phinney Avenue N #306<br/>
+						Seattle, WA 98103<br/>
+					 </strong></p>
+                    <p>Please contact our Development staff at (877) 771-GIVE, or email us at 	
+						<a href="mailto:give@thegroundbreakers.org>">
+							give@thegroundbreakers.org
+						</a> if you have any questions. Thank you for your support!</p>
                      
     			<!--<a name="donateonline"></a>
                 <h4>Donate Online</h4> 
@@ -156,12 +161,10 @@
                     
                 <a name="contributeforstudents"></a>
                 <h4>Contribute Items for Students</h4>
-                    <p>The items below help students as they work hard during the program and begin a new job. 
-                    If you have any questions about your donation, or to arrange for us to pick-up, 
-                    please contact Groundbreakers at (877) 771-GIVE.  If you would like a receipt that 
-                    acknowledges your donation and contains tax-deductibility information, please fill 
-                    out <a href="donation_form.pdf">this form</a> and attach it to your donation or send to Groundbreakers at your 
-                    earliest convenience. Thank you!</p>
+                    <p>The items below help students as they work hard during the program and begin a new life. 
+                    If you have any questions about your donation, or to arrange for us to pick-up, please contact Groundbreakers at (877) 771-GIVE. Thank you!</p>
+					
+					<p><b>For Economically Disadvantaged Students:</b><p>
                     <ul>
                         <li>USB Flash Drives (128mb or less, for storing resumes and cover letters)</li>
                         <li>Watches</li>
@@ -171,6 +174,9 @@
                         <li>Planners/calendars</li>
                         <li>Gift Coupons for food stores or local restaurants</li>
                         <li>Bus Passes</li>
+					</ul>
+					<p><b>Farm Supplies and Equipment to Support the Program:</b><p>					
+					<ul>
                         <li>Gardening Gloves</li>
                         <li>Stirrup and Collinear Garden Hoes</li>
                         <li>Organic Vegetable Seeds</li>
@@ -185,20 +191,27 @@
                     </ul>
                    
                         
-                     <a name="contributeemployermatch"></a>   
-                    <h4>Employer Match Program Information</h4>
-                        <p>Often, employers will match donations to charitable organizations made 
-                        by their employees, retirees and family members. Employer matching gifts can double 
-                        your donation to Groundbreakers. To initiate a matching gift, check with the personnel 
-                        or human resources department at your place of employment.</p>
-                        
-                        <p>If the employer uses a Matching Gift form, please complete and send it to:</p>
-                        <p><strong>Groundbreakers<br />
-                         Attn: Development<br />
-                         P.O. Box 14370<br />
-                         Mill Creek, WA 98082<br />
-                        Email: give@thegroundbreakers.org<br />
-                        Fax: 866-375-1306</strong></p>
+                 <a name="contributeemployermatch"></a>   
+                <h4>Employer Match Program Information</h4>
+                    <p>Often, employers will match donations to charitable organizations made 
+                    by their employees, retirees and family members. Employer matching gifts can double your donation to Groundbreakers. To initiate a matching gift, check with the personnel or human resources department at your place of employment.</p>
+                    
+                    <p>If the employer uses a Matching Gift form, please complete and send it to:</p>
+
+                     <p><strong>
+					 	Groundbreakers<br/>
+						c/o EcoPraxis<br/>
+						5901 Phinney Avenue N #306<br/>
+						Seattle, WA 98103<br/>
+					 </strong><br/>
+					Email: <a href="mailto:give@thegroundbreakers.org>">
+								give@thegroundbreakers.org
+							</a> <br/>
+					Fax: 866-375-1306
+					</p>
+					
+					<p>Groundbreakers is currently fiscally sponsored by EcoPraxis, a 501(c)3 organization committed to working collaboratively with community-based businesses and organizations to put the vision of sustainable community economies into practice.</p>
+					
             </div> <!--end content right-->
        </div><!--end content-->
        

@@ -49,7 +49,6 @@
                 <ul>
                    <li><a href="getinvolved_donate.php">&raquo; Contribute</a></li>
                     <li class="active"><a href="getinvolved_volunteer.php">Volunteer</a></li>
-                    <li><a href="getinvolved_wishlist.php">&raquo; Wish List</a></li>
                 </ul>
       		</div><!--end content left-->
       

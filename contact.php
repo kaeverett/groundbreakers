@@ -49,7 +49,7 @@
      
          <div id="content_right">
          <h2>CONTACT</h2>
-			<p>email:<strong>info@thegroundbreakers.org</strong><br />
+			<p>email:<strong>give@thegroundbreakers.org</strong><br />
             Phone: <strong>877-771-GIVE</strong><br />
             Fax: <strong>866-375-1306</strong><br />
             Mailing Address: <strong>P.O. Box 14370, Mill Creek, WA 98082</strong><br />

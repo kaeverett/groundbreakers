@@ -1,6 +1,7 @@
 *{
 	margin:0; 
-	padding:0;}	
+	padding:0; 
+}	
 body {
 	font-family:verdana, helvetica, sans serif; 
 	text-align:center;
@@ -353,6 +354,20 @@ div#facebook-like {
 	padding:1px 40px;
 	text-align:justify;
 }
+
+#content_right table {
+	line-height:1.75em;
+	font-size:.75em; 
+	color:#666; 
+	padding:1px 40px;
+	text-align:justify;
+}
+
+#content_right tr {
+	padding-top:12px;
+	padding-bottom:12px;
+}
+
 #content_right img{ 
 	margin:4px 10px 1px 40px;  
 	float:left; 
@@ -373,7 +388,7 @@ div#facebook-like {
 #content_right table {
 	margin-top:40px;
 	margin-left:5px; 
-	margin-bottom:100px;
+	margin-bottom:10px;
 	text-align:center;
 	}
 #content_right em {

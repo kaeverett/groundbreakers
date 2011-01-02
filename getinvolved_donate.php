@@ -49,7 +49,8 @@
                 <p><strong>Get Involved</strong></p>
                 <ul>
                     <li class="active"><a href="getinvolved_donate.php">Contribute</a></li>
-                    <li><a href="getinvolved_volunteer.php">&raquo; Volunteer</a></li>
+                    <li class="active"><a href="getinvolved_volunteer.php">&raquo; Volunteer</a></li>
+                   <li class="active"><a href="getinvolved_faq.php">Frequently Asked Questions</a></li>
                 </ul>
       		</div><!--end content left-->
       
@@ -60,29 +61,29 @@
 				<br/>
 				<p>In our first 6 months of operation, we delivered enough fresh produce to help serve more than 3,700 meals for economically disadvantaged families in King County, Washington.  Our volunteers contributed over 400 hours on our farm, and a number of local and national businesses contributed and supported us, including Bastyr University, FareStart, Fred Meyer, Lowes, Home Depot, My Garden Nursery, Herbco International Farms, Full Circle Farm, Oxbow Farm and more! Groundbreakers has a tremendous opportunity to expand our social impact—but only with the support of generous individuals and organizations. Please consider joining our Private or Corporate Donor Clubs today.</p>
 				
-				<h4>PRIVATE DONOR CLUB LEVELS:</h4> 
+				<h4>Private Donor Club Levels:</h4> 
             	<table>
 					<tr>
 						<td align='left' width='120'>Friend</td>
-						<td align='left' width='150'>$30 - $99</td>
+						<td align='left' width='120'>$30 - $99</td>
 						<td align='right'>A $30 contribution pays for 1 person to have enough vegetables for 39 days</td>					
 					</tr>
-					<tr>			
+					<tr>
 						<td align='left'>Contributor</td>
 						<td align='left'>$100 - $249</td>
 						<td align='right'>Just $100 pays for the field gear and tools necessary for 1 student’s training for 4 months</td>														
 					</tr>
-					<tr>			
+					<tr>
 						<td align='left'>Benefactor</td>
 						<td align='left'>$250 - $499</td>
 						<td align='right'>Your $350 donation affords 1 month of transportation for students to the farm and shelter</td>							
 					</tr>
-					<tr>			
+					<tr>
 						<td align='left'>Patron</td>
 						<td align='left'>$500 +</td>
 						<td align='right'>Provides enough farming hand-tools for over 25 students and volunteers</td>							
 					</tr>
-					<tr>			
+					<tr>
 						<td align='left'>Partner</td>
 						<td align='left'>$1,000 +</td>
 						<td align='right'>Buys enough local seed, irrigation, manure and supplies to help provide over 1,270 meals</td>							
@@ -94,7 +95,7 @@
 					</tr>
 				</table>
 		            								
-				<h4>CORPORATE DONOR CLUB LEVELS:</h4> 
+				<h4>Corporate Sponsorship Levels:</h4> 
 	           	<table>
 					<tr>
 						<td align='left' width='200'>Corporate Benefactor</td>
@@ -115,19 +116,18 @@
 						<td align='left'></td>
 						<td align='left'></td>
 						<td align='right'>
-							<a href="mailto:info@thegroundbreakers.org>?subject=donation information">
-						[To learn more, email info@thegroundbreakers.org]</a></td>														
+							<a href="mailto:give@thegroundbreakers.org?subject=donation information">
+						[To learn more, email give@thegroundbreakers.org]</a></td>														
 					</tr>
 				</table>
 				
 				<p>Here are four ways that you can give to Groundbreakers:</p>
-				<ul>		
+				<ul><ul>		
                 	<li><a href="#contributeonline">Contribute Online</a></li>
                     <li><a href="#contributebymail">Contribute by Mail</a></li>
                     <li><a href="#contributeforstudents">Contribute Items for Students</a></li>
                     <li><a href="#contributeemployermatch">Employer Match Program Information</a></li>
-                </ul>
-                <p><em>All donations are fully tax-deductible. Tax ID # 27-2887159</em></p>
+                </ul></ul>
     
     			<a name="contributeonline"></a>
                 <h4>Contribute Online</h4> 
@@ -151,7 +151,7 @@
 						Seattle, WA 98103<br/>
 					 </strong></p>
                     <p>Please contact our Development staff at (877) 771-GIVE, or email us at 	
-						<a href="mailto:give@thegroundbreakers.org>">
+						<a href="mailto:give@thegroundbreakers.org">
 							give@thegroundbreakers.org
 						</a> if you have any questions. Thank you for your support!</p>
                      
@@ -165,7 +165,7 @@
                     If you have any questions about your donation, or to arrange for us to pick-up, please contact Groundbreakers at (877) 771-GIVE. Thank you!</p>
 					
 					<p><b>For Economically Disadvantaged Students:</b><p>
-                    <ul>
+                    <ul><ul>
                         <li>USB Flash Drives (128mb or less, for storing resumes and cover letters)</li>
                         <li>Watches</li>
                         <li>Rain Gear</li>
@@ -174,9 +174,9 @@
                         <li>Planners/calendars</li>
                         <li>Gift Coupons for food stores or local restaurants</li>
                         <li>Bus Passes</li>
-					</ul>
+					</ul></ul>
 					<p><b>Farm Supplies and Equipment to Support the Program:</b><p>					
-					<ul>
+					<ul><ul>
                         <li>Gardening Gloves</li>
                         <li>Stirrup and Collinear Garden Hoes</li>
                         <li>Organic Vegetable Seeds</li>
@@ -188,7 +188,7 @@
                         <li>3 Garden Carts/Wheel Barrows</li>
                         <li>1 Seeder</li>
                         <li>1 Truck/Van for Distributing Organic Produce</li>
-                    </ul>
+                    </ul></ul>
                    
                         
                  <a name="contributeemployermatch"></a>   
@@ -204,7 +204,7 @@
 						5901 Phinney Avenue N #306<br/>
 						Seattle, WA 98103<br/>
 					 </strong><br/>
-					Email: <a href="mailto:give@thegroundbreakers.org>">
+					Email: <a href="mailto:give@thegroundbreakers.org">
 								give@thegroundbreakers.org
 							</a> <br/>
 					Fax: 866-375-1306

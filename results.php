@@ -67,7 +67,7 @@ in Seattle, and
 
 		<font face="Verdana" size="1" color="#999999"><br/><a href="http://www.myspace.com/video/vid/33716233" style="font: Verdana">Betty of DC Central Kitchen</a><br/><object width="425px" height="360px" ><param name="allowScriptAccess" value="always"/><param name="allowFullScreen" value="true"/><param name="wmode" value="transparent"/><param name="movie" value="http://mediaservices.myspace.com/services/media/embed.aspx/m=33716233,t=1,mt=video"/><embed src="http://mediaservices.myspace.com/services/media/embed.aspx/m=33716233,t=1,mt=video" width="425" height="360" allowFullScreen="true" type="application/x-shockwave-flash" wmode="transparent" allowScriptAccess="always"></embed></object><br/><a href="http://www.myspace.com/27144843" style="font: Verdana">Scott</a> | <a href="http://www.myspace.com/video" style="font: Verdana">Myspace Video</a></font>
 
-		<h4>OTHER SIMILARLY STRUCTURED PROGRAMS IN NORTH AMERICA:</h4> 
+		<h4>Other Similarly Structured Programs In North America:</h4> 
 		<p>
 			<ul>
 				<li><a href="http://thefoodproject.org">The Food Project</a></li>

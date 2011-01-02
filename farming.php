@@ -58,7 +58,7 @@
       
             <div id="content_right">
 			<h2>VOCATIONAL FARMING</h2>
-            <h4>VOCATIONAL FARMING</h4> 
+            <h4>Vocational Farming</h4> 
             <p>
             	The goal of Groundbreakers is to prepare unemployed, underemployed or previously incarcerated persons, and homeless adults for careers in farming, plant nurseries, landscaping, or parks and recreation.</p>
 			<p>	Up to 10 students may be enrolled in each class cycle. Participants attend training Monday through Friday each week, from 7:30 a.m. to 4:30 p.m. Groundbreakers offers students free transportation between the farm and Seattle each day.</p>

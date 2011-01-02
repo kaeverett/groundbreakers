@@ -59,7 +59,7 @@
       
             <div id="content_right">
             <h2>TRAINING</h2> 	
-            <h4>TRAINING PROGRAM OVERVIEW</h4> 
+            <h4>Training Program Overview</h4> 
             <p>The Students spend 16 weeks training in a variety of ways:</p>
 
 			<img src="images/training_schedule.png" alt="training schedule" />

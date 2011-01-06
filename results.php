@@ -69,11 +69,11 @@ in Seattle, and
 
 		<h4>Other Similarly Structured Programs In North America:</h4> 
 		<p>
-			<ul>
+			<ul><ul>
 				<li><a href="http://thefoodproject.org">The Food Project</a></li>
 				<li><a href="http://www.growingpower.org">Growing Power</a></li>
 				<li><a href="http://www.woodwynnfarms.org">Woodwynn Farms</a></li>
-			</ul>
+			</ul></ul>
 		</p>
 		
 		<p>Help us begin our inaugural field training class by contributing to Groundbreakers. Your contribution will help feed hungry people in King County and offer transferable skills that put people back to work and help them reclaim their self worth.</p>

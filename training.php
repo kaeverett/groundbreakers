@@ -134,7 +134,7 @@
 			</p>
 			
 			<br/>
-			<h5>Graduate Support:</h5>
+			<h5>Graduate Support</h5>
 			<p>Graduates are contacted monthly for one year following their graduation and receive support in the form of job advice, employment search assistance, and help with a variety of other social service resources.</p>
 
             </div> <!--end content right-->

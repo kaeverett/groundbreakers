@@ -60,15 +60,10 @@
             <div id="content_right">
             <h2>TRAINING</h2> 	
             <h4>Training Program Overview</h4> 
-            <p>The Students spend 16 weeks training in a variety of ways:</p>
+            <p>The Students spend 16 weeks training in a variety of ways.  This timeline and descriptions below provide a comprehensive look at the student training experience.</p>
 
 			<p><img src="images/training_schedule.png" alt="training schedule"/></p>
 			
-			<br/>
-			<h5>Personal Life Sessions</h5> 
-			<h5>30 minutes weekly (8 hrs/class cycle)</h5>
-			<p>Students meet individually with our staff and volunteers on a weekly basis to identify and discuss personal and professional goals. These sessions also include scheduling appointments for services such as rental assistance, mental health and dental health appointments, affordable housing, child care and energy assistance. Students also discuss program progress during these sessions.</p>
-
 			<br/>
 			<h5>Vocational Farm Training/Coursework: 500 hours</h5>
 			<h5>Monday – Friday </h5>
@@ -81,6 +76,17 @@
 					<li>Module Four – Introduction to Greenhouses and Propagation</li>
 					<li>Module Five – Harvesting and Food Preservation</li>
 					<li>Module Six – Management and Safety</li>
+				</ul></ul>
+			</p>
+			<p>Students are evaluated by mentors in the following areas:</p>
+			<p>
+				<ul><ul>
+					<li>Attendance and punctuality</li>
+					<li>Attitude</li>
+					<li>Ability to follow direction</li>
+					<li>Practical Skills and Application</li>
+					<li>Safety and Sanitation – Knowledge and Practice</li>
+					<li>Teamwork</li>
 				</ul></ul>
 			</p>
 
@@ -96,19 +102,10 @@
 			<br/>
 			<h5>Internships – 100 Hours per Student</h5>
 			<p>Students participate in two independent internships where they can experience working in various farming or gardening environments, which may include greenhouse stations, landscaping projects, community supported agriculture operations, packaging, and more.</p>
-
 			<br/>
-			<h5>Students are evaluated by mentors in the following areas:</h5>
-			<p>
-				<ul><ul>
-					<li>Attendance and punctuality</li>
-					<li>Attitude</li>
-					<li>Ability to follow direction</li>
-					<li>Practical Skills and Application</li>
-					<li>Safety and Sanitation – Knowledge and Practice</li>
-					<li>Teamwork</li>
-				</ul></ul>
-			</p>
+			<h5>Personal Life Sessions</h5> 
+			<h5>30 minutes weekly (8 hrs/class cycle)</h5>
+			<p>Students meet individually with our staff and volunteers on a weekly basis to identify and discuss personal and professional goals. These sessions also include scheduling appointments for services such as rental assistance, mental health and dental health appointments, affordable housing, child care and energy assistance. Students also discuss program progress during these sessions.</p>
 
 			<br/>
 			<h5>Employment Skills and Job Search: 2 Weeks (80 hours)</h5>

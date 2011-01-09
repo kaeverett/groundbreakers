@@ -378,7 +378,6 @@ div#facebook-like {
 #content_right a:hover {
 	color:#81973b; 
 	text-decoration:underline;}
-	/*#content_right p:first-child {margin-top:40px;}*/
 #content_right li {
 	font-size:.75em; 
 	color:#666; 
@@ -386,7 +385,6 @@ div#facebook-like {
 #content_right ul {
 	padding:10px 40px;}
 #content_right table {
-	margin-top:40px;
 	margin-left:5px; 
 	margin-bottom:10px;
 	text-align:center;

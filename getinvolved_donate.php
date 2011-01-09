@@ -57,70 +57,6 @@
             <div id="content_right">
 	
 	            <h2>CONTRIBUTE</h2>
-				<p>Groundbreakers is currently an all volunteer staff, so we depend on your contributions to run our program. </p>
-				<br/>
-				<p>In our first 6 months of operation, we delivered enough fresh produce to help serve more than 3,700 meals for economically disadvantaged families in King County, Washington.  Our volunteers contributed over 400 hours on our farm, and a number of local and national businesses contributed and supported us, including Bastyr University, FareStart, Fred Meyer, Lowes, Home Depot, My Garden Nursery, Herbco International Farms, Full Circle Farm, Oxbow Farm and more! Groundbreakers has a tremendous opportunity to expand our social impact—but only with the support of generous individuals and organizations. Please consider joining our Private or Corporate Donor Clubs today.</p>
-				
-				<h4>Private Donor Club Levels</h4> 
-            	<table>
-					<tr>
-						<td align='left' width='120'>Friend</td>
-						<td align='left' width='120'>$30 - $99</td>
-						<td align='right'>A $30 contribution pays for 1 person to have enough vegetables for 39 days</td>					
-					</tr>
-					<tr bgcolor="#FFFFCC">
-						<td align='left'>Contributor</td>
-						<td align='left'>$100 - $249</td>
-						<td align='right'>Just $100 pays for the field gear and tools necessary for 1 student’s training for 4 months</td>														
-					</tr>
-					<tr>
-						<td align='left'>Benefactor</td>
-						<td align='left'>$250 - $499</td>
-						<td align='right'>Your $350 donation affords 1 month of transportation for students to the farm and shelter</td>							
-					</tr>
-					<tr bgcolor="#FFFFCC">
-						<td align='left'>Patron</td>
-						<td align='left'>$500 +</td>
-						<td align='right'>Provides enough farming hand-tools for over 25 students and volunteers</td>							
-					</tr>
-					<tr>
-						<td align='left'>Partner</td>
-						<td align='left'>$1,000 +</td>
-						<td align='right'>Buys enough local seed, irrigation, manure and supplies to help provide over 1,270 meals</td>							
-					</tr>
-					<tr bgcolor="#FFFFCC">			
-						<td align='left'>Guardian</td>
-						<td align='left'>$2,000 +</td>
-						<td align='right'>Supports 1 student to secure employment within 90 days after graduation</td>							
-					</tr>
-				</table>
-		            								
-				<h4>Corporate Sponsorship Levels</h4> 
-	           	<table>
-					<tr>
-						<td align='left' width='200'>Benefactor</td>
-						<td align='left' width='100'>$1,500 +</td>
-						<td align='right'>Pays for the field training of 4 students for 2 weeks</td>					
-					</tr>
-					<tr bgcolor="#FFFFCC">			
-						<td align='left'>Patron</td>
-						<td align='left'>$5,000 +</td>
-						<td align='right'>Purchases metal-framed hoop houses for specialty crops & maximized yield</td>														
-					</tr>
-					<tr>			
-						<td align='left'>Partner</td>
-						<td align='left'>$10,000 +</td>
-						<td align='right'>Provides enough vegetables to feed 120 people 3 meals a day for more than a month</td>														
-					</tr>
-					<tr>			
-						<td align='left'></td>
-						<td align='left'></td>
-						<td align='right'>
-							<a href="mailto:give@thegroundbreakers.org?subject=donation information">
-						[To learn more, email give@thegroundbreakers.org]</a></td>														
-					</tr>
-				</table>
-				
 				<p>Here are four ways that you can give to Groundbreakers:</p>
 				<ul><ul>		
                 	<li><a href="#contributeonline">Contribute Online</a></li>
@@ -128,7 +64,68 @@
                     <li><a href="#contributeforstudents">Contribute Items for Students</a></li>
                     <li><a href="#contributeemployermatch">Employer Match Program Information</a></li>
                 </ul></ul>
-    
+	
+				<p>Groundbreakers is currently an all volunteer staff, so we depend on your contributions to run our program. Please consider joining our Private or Corporate Donor Clubs today.</p>				
+				<h4>Private Donor Club Levels</h4> 
+            	<table>
+					<tr>
+						<td align='left' width='120'><b>Friend</b></td>
+						<td align='left' width='120'>$30 - $99</td>
+						<td align='left'>A $30 contribution pays for 1 person to have enough vegetables for 39 days</td>					
+					</tr>
+					<tr bgcolor="#FFFFCC">
+						<td align='left'><b>Contributor</b></td>
+						<td align='left'>$100 - $249</td>
+						<td align='left'>Just $100 pays for the field gear and tools necessary for 1 student’s training for 4 months</td>														
+					</tr>
+					<tr>
+						<td align='left'><b>Benefactor</b></td>
+						<td align='left'>$250 - $499</td>
+						<td align='left'>Your $350 donation affords 1 month of transportation for students to the farm and shelter</td>							
+					</tr>
+					<tr bgcolor="#FFFFCC">
+						<td align='left'><b>Patron</b></td>
+						<td align='left'>$500 +</td>
+						<td align='left'>Provides enough farming hand-tools for over 25 students and volunteers</td>							
+					</tr>
+					<tr>
+						<td align='left'><b>Partner</b></td>
+						<td align='left'>$1,000 +</td>
+						<td align='left'>Buys enough local seed, irrigation, manure and supplies to help provide over 1,270 meals</td>							
+					</tr>
+					<tr bgcolor="#FFFFCC">			
+						<td align='left'><b>Guardian</b></td>
+						<td align='left'>$2,000 +</td>
+						<td align='left'>Supports 1 student to secure employment within 90 days after graduation</td>							
+					</tr>
+				</table>
+		            								
+				<h4>Corporate Sponsorship Levels</h4> 
+	           	<table>
+					<tr>
+						<td align='left' width='200'><b>Benefactor</b></td>
+						<td align='left' width='100'>$1,500 +</td>
+						<td align='left'>Pays for the field training of 4 students for 2 weeks</td>					
+					</tr>
+					<tr bgcolor="#FFFFCC">			
+						<td align='left'><b>Patron</b></td>
+						<td align='left'>$5,000 +</td>
+						<td align='left'>Purchases metal-framed hoop houses for specialty crops & maximized yield</td>														
+					</tr>
+					<tr>			
+						<td align='left'><b>Partner</b></td>
+						<td align='left'>$10,000 +</td>
+						<td align='left'>Provides enough vegetables to feed 120 people 3 meals a day for more than a month</td>														
+					</tr>
+					<tr>			
+						<td align='left'></td>
+						<td align='left'></td>
+						<td align='left'>
+							<a href="mailto:give@thegroundbreakers.org?subject=donation information">
+						To learn more, click here</a></td>														
+					</tr>
+				</table>
+				    
     			<a name="contributeonline"></a>
                 <h4>Contribute Online</h4> 
 				<p>NOTE: At this time, tax deductible donations are only being received by mail.</p>
@@ -143,7 +140,7 @@
                         <br/>
     			<a name="contributebymail"></a>
                 <h4>Contribute by Mail</h4> 
-                    <p>Any amount is appreciated. Minimum Suggested Donation: $30. To make a tax-deductible donation, make your check payable to "EcoPraxis", indicate "Groundbreakers" in the memo field, and mail to:</p>
+                    <p>Any amount is appreciated, but a minimum suggested donation amount is $30.  To make a tax-deductible donation, make your check payable to "EcoPraxis", indicate "Groundbreakers" in the memo field, and mail to:</p>
                      <p><strong>
 					 	Groundbreakers<br/>
 						c/o EcoPraxis<br/>

@@ -154,7 +154,7 @@ div#menuTop a, div#menuTopFront a {
     margin: 0;
     padding: 1px 5px;
     text-decoration: none;
-    color:#80963b;}
+    color:#660000;}
 div#menuTop a:hover,div#menuTopFront a:hover {
     color:#666}
 ul.menuVert li {
@@ -211,13 +211,13 @@ ul#menuSubThree { left: 221px; }
 
 #extra_info h4 {
 	/*font-variant:small-caps;*/
-	color:#C90; 
+	color:#930; 
 	text-align:left;
 	padding:10px 0 10px 20px;
 	}
 #centar h4 {
 	/*font-variant:small-caps;*/
-	color:#C90; 
+	color:#930; 
 	text-align:center;
 	}
 	
@@ -284,7 +284,7 @@ div#right p:first-child{
 	font-size:.60em;
 	text-align:centar;
 	margin-top:10px;
-	color:#C90;
+	color:#930;
 	}
 div#facebook-like {
 	text-align:center;
@@ -395,7 +395,7 @@ div#facebook-like {
 
 #content_right h4 {
 	font-variant:small-caps;
-	color:#C90; 
+	color:#930; 
 	padding-left:40px;
 	margin-top:30px;
 	margin-bottom:5px;
@@ -436,7 +436,7 @@ div#facebook-like {
 #footer #menuBottom {
 	margin-bottom:30px;
 	font-variant:small-caps;
-	color:#C90;  
+	color:#930;  
 	font-size:1.1em;}
 /*footer end*/
 

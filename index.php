@@ -70,13 +70,6 @@
                 
          		 <div id="header_right"> 
                     
-                    <div id="donate_signup">
-                    <ul>
-                        <li><a href="getinvolved_donate.php">contribute</a></li>
-                       	<li><a href="getinvolved_volunteer.php">help us on the farm</a></li>
-                        <li><a href="news.php">sign up for our newsletter</a></li>
-                    </ul>
-                 	</div><!--end donate_signup-->
             
             
                    <div id="menuTopFront">

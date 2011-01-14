@@ -231,10 +231,31 @@ ul#menuSubThree { left: 221px; }
 div#left {
 	background-color:#fff;
 	float:left;
-	width:280px;
+	width:350px;
 }
-	div#left p {
-		padding:10px 0 10 20px;}
+div#left p {
+		padding:10px 0 10 20px;
+}
+
+div#right {
+	background-color:#fff;
+	float:right;
+	width:550px;
+}
+
+#header_bullets {
+	float:right; 
+	padding-top:20px;
+	padding-bottom:50px;
+	font-size:.75em; 
+	color:#666; 
+	padding:10px 40px;	
+	text-align: left;
+}
+
+div#right p {
+		padding:10px 0 10 20px;
+}
 
 div#centar_right {
 	float:right;
@@ -245,23 +266,7 @@ div#centar {
 	float: left;
 	width: 280px;
 }
-	div#centar ul{
-		list-style-type:none;
-		}
-	div#centar li{
-		text-align:center;
-		}
-	div#centar img{
-		margin:0;
-		}
 		
-div#right {
-  	float:right;
-	width: 290px;
-	overflow:hidden;
-	/*background-color:#80963b;*/
-	/*background-image:url(images/bg_right.png); background-repeat:no-repeat;	*/
-}
 div#right_inner {
 	margin-top:10px;
 	padding:30px;
@@ -269,16 +274,6 @@ div#right_inner {
 	background-color:#d4e5ab;}
 div#right_inner img {
 	/*margin-top:5px;*/}
-
-div#right p{
-	/*padding:10px 29px 0 20px;*/
-	color:#666;}
-div#right p:last-child{
-	/*padding:20px 29px 40px 20px;
-	color:#666;*/}
-div#right p:first-child{
-	/*padding:30px 29px 0 20px;
-	color:#666;*/}
 
 .detail {
 	font-size:.60em;

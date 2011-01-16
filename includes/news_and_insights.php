@@ -1,6 +1,6 @@
   <div id="header">
                 
-               <div id="header_left"><a href="../index.html"><img src="images/GB_final_logo.gif" alt="" /></a></div>
+               <div id="header_left"><a href="../index.php"><img src="images/GB_final_logo.gif" alt="" /></a></div>
                 
          		 <div id="header_right"> 
                     
@@ -15,7 +15,7 @@
             
                    <div id="menuTop">
                        <ul id="menuOne" class="menuHoriz">
-                                <li><a href="index.html"><strong>Home</strong></a></li>
+                                <li><a href="index.php"><strong>Home</strong></a></li>
                                 <li><a href="about_gb.php" onMouseOver="setMenu('menuSubOne')" onMouseOut="clearMenu('menuSubOne')"><strong>About Us</strong></a></li>
                                 <li><a href="farm.php" onMouseOver="setMenu('menuSubTwo')" onMouseOut="clearMenu('menuSubTwo')"><strong>The Farm</strong></a></li>
                                 <li><a href="getinvolved_donate.php" onMouseOver="setMenu('menuSubThree')" onMouseOut="clearMenu('menuSubThree')"><strong>Get Involved</strong></a></li>

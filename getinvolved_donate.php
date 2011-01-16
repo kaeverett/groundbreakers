@@ -1,40 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+		<?php include('includes/inc_head.php'); ?>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-	<head>
-		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-		
-		<title>Groundbreakers</title>
-   
-
- <link rel="stylesheet" href="nivo-slider.css" type="text/css" media="screen" />
- <link rel="stylesheet" href="gb_styles.css" type="text/css" media="screen" />
- 
-<script type="text/javascript" src="js/bw-menu.js"></script>
-<script type="text/javascript" src="js/jquery-1.4.2.js"></script>
-<script type="text/javascript" src="js/jquery.corner.js"></script>
-<script src="js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
-<script type="text/javascript">
-	
-	
-	// function for dropdown paint effect
-		
-
-			
-			
-			$(function()
-				{	
-					$("#header_left").corner("40px");
-					
-					
-					
-					
-				}); 
-
-</script>
-
-	</head>
 
 	<body>
 
@@ -49,86 +14,30 @@
                 <p><strong>Get Involved</strong></p>
                 <ul>
                     <li class="active"><a href="getinvolved_donate.php">Contribute</a></li>
-                    <li class="active"><a href="getinvolved_volunteer.php">&raquo; Volunteer</a></li>
-                   <li class="active"><a href="getinvolved_faq.php">Frequently Asked Questions</a></li>
+                    <li><a href="getinvolved_volunteer.php">&raquo; Volunteer</a></li>
+                    <li><a href="getinvolved_wishlist.php">&raquo; Wish List</a></li>
                 </ul>
+                
+                 <a href="getinvolved_donate.php"><img src="images/contribute_button.jpg" alt="dontate button" /></a>
+                 
+                 
       		</div><!--end content left-->
       
             <div id="content_right">
-	
-	            <h2>CONTRIBUTE</h2>
-				<p>Here are four ways that you can give to Groundbreakers:</p>
-				<ul><ul>		
+            <h2>CONTRIBUTE</h2>
+                <p>Groundbreakers, a 501 (c) 3 nonprofit, is made possible by 
+                the generous support of individuals, organizations and corporations. 
+                There are four ways that you can give to Groundbreakers:</p>
+                <ul>
                 	<li><a href="#contributeonline">Contribute Online</a></li>
                     <li><a href="#contributebymail">Contribute by Mail</a></li>
                     <li><a href="#contributeforstudents">Contribute Items for Students</a></li>
                     <li><a href="#contributeemployermatch">Employer Match Program Information</a></li>
-                </ul></ul>
-	
-				<p>Groundbreakers is currently an all volunteer staff, so we depend on your contributions to run our program. Please consider joining our Private or Corporate Donor Clubs today.</p>				
-				<h4>Private Donor Club Levels</h4> 
-            	<table>
-					<tr>
-						<td align='left' width='120'><b>Friend</b></td>
-						<td align='left' width='120'>$30 - $99</td>
-						<td align='left'>A $30 contribution pays for 1 person to have enough vegetables for 39 days</td>					
-					</tr>
-					<tr bgcolor="#FFFFCC">
-						<td align='left'><b>Contributor</b></td>
-						<td align='left'>$100 - $249</td>
-						<td align='left'>Just $100 pays for the field gear and tools necessary for 1 student’s training for 4 months</td>														
-					</tr>
-					<tr>
-						<td align='left'><b>Benefactor</b></td>
-						<td align='left'>$250 - $499</td>
-						<td align='left'>Your $350 donation affords 1 month of transportation for students to the farm and shelter</td>							
-					</tr>
-					<tr bgcolor="#FFFFCC">
-						<td align='left'><b>Patron</b></td>
-						<td align='left'>$500 +</td>
-						<td align='left'>Provides enough farming hand-tools for over 25 students and volunteers</td>							
-					</tr>
-					<tr>
-						<td align='left'><b>Partner</b></td>
-						<td align='left'>$1,000 +</td>
-						<td align='left'>Buys enough local seed, irrigation, manure and supplies to help provide over 1,270 meals</td>							
-					</tr>
-					<tr bgcolor="#FFFFCC">			
-						<td align='left'><b>Guardian</b></td>
-						<td align='left'>$2,000 +</td>
-						<td align='left'>Supports 1 student to secure employment within 90 days after graduation</td>							
-					</tr>
-				</table>
-		            								
-				<h4>Corporate Sponsorship Levels</h4> 
-	           	<table>
-					<tr>
-						<td align='left' width='200'><b>Benefactor</b></td>
-						<td align='left' width='100'>$1,500 +</td>
-						<td align='left'>Pays for the field training of 4 students for 2 weeks</td>					
-					</tr>
-					<tr bgcolor="#FFFFCC">			
-						<td align='left'><b>Patron</b></td>
-						<td align='left'>$5,000 +</td>
-						<td align='left'>Purchases metal-framed hoop houses for specialty crops & maximized yield</td>														
-					</tr>
-					<tr>			
-						<td align='left'><b>Partner</b></td>
-						<td align='left'>$10,000 +</td>
-						<td align='left'>Provides enough vegetables to feed 120 people 3 meals a day for more than a month</td>														
-					</tr>
-					<tr>			
-						<td align='left'></td>
-						<td align='left'></td>
-						<td align='left'>
-							<a href="mailto:give@thegroundbreakers.org?subject=donation information">
-						To learn more, click here</a></td>														
-					</tr>
-				</table>
-				    
+                </ul>
+                <p><em>All donations are fully tax-deductible. Tax ID # 27-2887159</em></p>
+    
     			<a name="contributeonline"></a>
                 <h4>Contribute Online</h4> 
-				<p>NOTE: At this time, tax deductible donations are only being received by mail.</p>
                         <br/>
                         <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <input type="hidden" name="cmd" value="_s-xclick">
@@ -140,17 +49,13 @@
                         <br/>
     			<a name="contributebymail"></a>
                 <h4>Contribute by Mail</h4> 
-                    <p>Any amount is appreciated, but a minimum suggested donation amount is $30.  To make a tax-deductible donation, make your check payable to "EcoPraxis", indicate "Groundbreakers" in the memo field, and mail to:</p>
-                     <p><strong>
-					 	Groundbreakers<br/>
-						c/o EcoPraxis<br/>
-						5901 Phinney Avenue N #306<br/>
-						Seattle, WA 98103<br/>
-					 </strong></p>
-                    <p>Please contact our Development staff at (877) 771-GIVE, or email us at 	
-						<a href="mailto:give@thegroundbreakers.org">
-							give@thegroundbreakers.org
-						</a> if you have any questions. Thank you for your support!</p>
+                    <p>Any amount is appreciated. Minimum Suggested Donation: $25. If donating by check, 
+                     please make your check out to "Groundbreakers" and mail to:</p>
+                     <p><strong>Groundbreakers<br />
+                         Attn: Development<br />
+                         P.O. Box 14370<br />
+                         Mill Creek, WA 98082</ br></strong></p>
+                    <p>Please contact our Development staff at (877) 771-GIVE, or email us at give@thegroundbreakers.org if you have any questions. Thank you for your support!</p>
                      
     			<!--<a name="donateonline"></a>
                 <h4>Donate Online</h4> 
@@ -158,11 +63,13 @@
                     
                 <a name="contributeforstudents"></a>
                 <h4>Contribute Items for Students</h4>
-                    <p>The items below help students as they work hard during the program and begin a new life. 
-                    If you have any questions about your donation, or to arrange for us to pick-up, please contact Groundbreakers at (877) 771-GIVE. Thank you!</p>
-					
-					<p><b>For Economically Disadvantaged Students:</b><p>
-                    <ul><ul>
+                    <p>The items below help students as they work hard during the program and begin a new job. 
+                    If you have any questions about your donation, or to arrange for us to pick-up, 
+                    please contact Groundbreakers at (877) 771-GIVE.  If you would like a receipt that 
+                    acknowledges your donation and contains tax-deductibility information, please fill 
+                    out <a href="donation_form.pdf">this form</a> and attach it to your donation or send to Groundbreakers at your 
+                    earliest convenience. Thank you!</p>
+                    <ul>
                         <li>USB Flash Drives (128mb or less, for storing resumes and cover letters)</li>
                         <li>Watches</li>
                         <li>Rain Gear</li>
@@ -171,9 +78,6 @@
                         <li>Planners/calendars</li>
                         <li>Gift Coupons for food stores or local restaurants</li>
                         <li>Bus Passes</li>
-					</ul></ul>
-					<p><b>Farm Supplies and Equipment to Support the Program:</b><p>					
-					<ul><ul>
                         <li>Gardening Gloves</li>
                         <li>Stirrup and Collinear Garden Hoes</li>
                         <li>Organic Vegetable Seeds</li>
@@ -185,30 +89,23 @@
                         <li>3 Garden Carts/Wheel Barrows</li>
                         <li>1 Seeder</li>
                         <li>1 Truck/Van for Distributing Organic Produce</li>
-                    </ul></ul>
+                    </ul>
                    
                         
-                 <a name="contributeemployermatch"></a>   
-                <h4>Employer Match Program Information</h4>
-                    <p>Often, employers will match donations to charitable organizations made 
-                    by their employees, retirees and family members. Employer matching gifts can double your donation to Groundbreakers. To initiate a matching gift, check with the personnel or human resources department at your place of employment.</p>
-                    
-                    <p>If the employer uses a Matching Gift form, please complete and send it to:</p>
-
-                     <p><strong>
-					 	Groundbreakers<br/>
-						c/o EcoPraxis<br/>
-						5901 Phinney Avenue N #306<br/>
-						Seattle, WA 98103<br/>
-					 </strong><br/>
-					Email: <a href="mailto:give@thegroundbreakers.org">
-								give@thegroundbreakers.org
-							</a> <br/>
-					Fax: 866-375-1306
-					</p>
-					
-					<p>Groundbreakers is currently fiscally sponsored by EcoPraxis, a 501(c)3 organization committed to working collaboratively with community-based businesses and organizations to put the vision of sustainable community economies into practice.</p>
-					
+                     <a name="contributeemployermatch"></a>   
+                    <h4>Employer Match Program Information</h4>
+                        <p>Often, employers will match donations to charitable organizations made 
+                        by their employees, retirees and family members. Employer matching gifts can double 
+                        your donation to Groundbreakers. To initiate a matching gift, check with the personnel 
+                        or human resources department at your place of employment.</p>
+                        
+                        <p>If the employer uses a Matching Gift form, please complete and send it to:</p>
+                        <p><strong>Groundbreakers<br />
+                         Attn: Development<br />
+                         P.O. Box 14370<br />
+                         Mill Creek, WA 98082<br />
+                        Email: give@thegroundbreakers.org<br />
+                        Fax: 866-375-1306</strong></p>
             </div> <!--end content right-->
        </div><!--end content-->
        

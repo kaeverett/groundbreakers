@@ -1,37 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-	<head>
-		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-		
-		<title>Groundbreakers - contact</title>
-
- <link rel="stylesheet" href="gb_styles.css" type="text/css" media="screen" />
- 
-<script type="text/javascript" src="js/bw-menu.js"></script>
-<script type="text/javascript" src="js/jquery-1.4.2.js"></script>
-<script type="text/javascript" src="js/jquery.corner.js"></script>
-<script type="text/javascript">
-	
-	
-	// function for dropdown paint effect
-		
-
-			
-			
-			$(function()
-				{	
-					$("#header_left").corner("40px");
-					
-					
-					
-					
-				}); 
-
-</script>
-
-	</head>
+		<?php include('includes/inc_head.php'); ?>
 
 	<body>
 		
@@ -43,9 +10,10 @@
    
     <div id="content">
       	 <div id="content_left">
-               
-<!--                     <p><strong>Newsletter</strong></p>
--->      	 </div><!--end content left-->
+         <p><strong>Sign Up</strong></p>
+<!-- <p><strong>Newsletter</strong></p>-->
+ <a href="getinvolved_donate.php"><img src="images/contribute_button.jpg" alt="dontate button" /></a>
+ </div><!--end content left-->
      
          <div id="content_right">
          <h2>NEWSLETTER</h2>
@@ -58,7 +26,7 @@
     <input type="text" name="FromEmail" /><br />
   
   Comments:<br />
-   <textarea onfocus="if (this.value == this.defaultValue) this.value='';" rows="4" cols="25" name="comments">Type Here!</textarea><br />
+   <textarea onFocus="if (this.value == this.defaultValue) this.value='';" rows="4" cols="25" name="comments">Type Here!</textarea><br />
  
      
      <input type="submit" value="Send" />

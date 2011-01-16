@@ -1,0 +1,115 @@
+
+#header_left {
+	z-index:9998; 
+	width:220px;
+	height:180px;
+	position:absolute; 
+	left:40px; 
+	top:20px;
+	background-color:#fff; 
+	border:1px solid #999;
+}
+
+#header_right {
+	position:absolute;
+	width:680px;
+	height:180;
+	right:10px;
+	top:20px;}
+
+#donate_signup{
+	float:right;
+	/*background-color:#cde289;*/
+	padding:2px 1px;
+	/*height:55px;*/
+	width:520px;
+	font-size:0.8em;
+	/*z-index:9996;*/
+	text-align:right;
+	margin-right:15px;
+	/*border:1px solid #999;*/}
+
+
+/*start top menu*/
+div#menuTop {
+	float:right;
+	z-index:9996;
+    position:relative;
+	height:20px;
+	margin-top:78px;
+	/*background-image:url(images/transparent2.png); background-repeat:repeat;*/
+	width:600px;
+	}		
+
+ul.menuHoriz ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+	
+	}
+ul.menuHoriz li {
+	
+    display: inline;
+    height: 18px;
+    margin: 0;
+    padding: 0 4px;
+	border-right:1px solid #ccc;
+	text-align:center;}
+
+ul.menuHoriz li:last-child {
+	border-right:none;}
+
+div#menuTop a{
+/*	background-color: #ccc;*/
+	/*font-variant:small-caps;*/
+	font-size: .80em;
+    display: block;
+    margin: 0;
+    padding: 1px 5px;
+    text-decoration: none;
+    color:#80963b;}
+div#menuTop a:hover {
+    color:#666}
+ul.menuVert li {
+	display: block; 
+	font-size:.83em; 
+	width:120px;
+	padding-left:5px; 
+	border-top:1px solid #fff; 
+	background-color:#cde289; }
+ul.menuVert li:hover {
+	background-color:#abc848; 
+	color:#fff}
+ul.menuVert {
+    position: absolute;
+    visibility: hidden;
+    top: 19px;}
+ul#menuSubOne { left: 56px;}
+ul#menuSubTwo { left: 140px; }
+ul#menuSubThree { left: 221px; }
+/*end top menu*/
+
+
+/*end header	*/
+
+#contentFront{
+	width:900px;
+	background-color:#fff; 
+	overflow:hidden;
+	
+	}
+#slideshow  {width:900px;
+	height:350px;
+	overflow:hidden;}
+	
+#extra_info {
+	border-top:5px solid #f3f3f3;
+	width:900px;
+	background-color:#fff; 
+/*	border: 2px solid #fff;  */
+	padding-bottom:20px;
+	text-align:center;
+	overflow:hidden;
+	line-height:1.3em;
+	height:300px;
+	}

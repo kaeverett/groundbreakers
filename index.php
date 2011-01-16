@@ -1,114 +1,20 @@
-<!DOCTYPE php PUBLIC "-//W3C//DTD Xphp 1.0 Transitional//EN" "http://www.w3.org/TR/xphp1/DTD/xphp1-transitional.dtd">
-
-<php xmlns="http://www.w3.org/1999/xphp" xml:lang="en" lang="en">
-
-	<head>
-		<meta http-equiv="Content-Type" content="text/php;charset=utf-8" />
-		<meta http-equiv="X-UA-Compatible" content="chrome=1">
-		<title>Groundbreakers</title>
- <link rel="stylesheet" href="nivo-slider.css" type="text/css" media="screen" />
- <link rel="stylesheet" href="gb_styles.css" type="text/css" media="screen" />
-<script type="text/javascript" src="js/bw-menu.js"></script>
-<script type="text/javascript" src="js/jquery-1.4.2.js"></script>
-<script type="text/javascript" src="js/jquery.corner.js"></script>
-<script type="text/javascript" src="build/dist/jquery.jfeed.pack.js"></script>
-<script language="javascript" src="js/jquery.cycle.all-2.8.6.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-
-			  $(function() {
-            // create the image rotator
-            setInterval("rotateImages()", 5000);
-        });
-
-        function rotateImages() {
-            var oCurPhoto = $('#photoShow div.current');
-            var oNxtPhoto = oCurPhoto.next();
-            if (oNxtPhoto.length == 0)
-                oNxtPhoto = $('#photoShow div:first');
-
-            oCurPhoto.removeClass('current').addClass('previous');
-            oNxtPhoto.css({ opacity: 0.0 }).addClass('current').animate({ opacity: 1.0 }, 1000,
-                function() {
-                    oCurPhoto.removeClass('previous');
-                });
-        }
-		
-		
-			$(function()
-				{	
-					$("#header_left").corner("40px");
-					$("#right_inner").corner("40px");
-					
-					
-					
-				}); 
-				
-				
- $(function() {
-        $('#slideshow').before('<div id="slideshow_nav">').cycle({
-            fx:     'fade',
-            speed:  1000,
-            timeout: 8000,
-            pager:  null,
-            before: function() { if (window.console) console.log(this.src); }
-        });
-    });
-
-
-</script>       
-
-	</head>
+		<?php include('includes/inc_head.php'); ?>
 
 	<body>
 	<div id="wrapper">
        		
         	  
-      <div id="header">
-                
-               <div id="header_left"><a href="index.php"><img src="images/GB_final_logo.gif" alt="" /></a></div>
-                
-         		 <div id="header_right"> 
-                    
-            
-            
-                   <div id="menuTopFront">
-                       <ul id="menuOne" class="menuHoriz">
-                                <li><a href="index.php"><strong>Home</strong></a></li>
-                                <li><a href="about_gb.php" onMouseOver="setMenu('menuSubOne')" onMouseOut="clearMenu('menuSubOne')"><strong>About Us</strong></a></li>
-                                <li><a href="farm.php" onMouseOver="setMenu('menuSubTwo')" onMouseOut="clearMenu('menuSubTwo')"><strong>The Farm</strong></a></li>
-                                <li><a href="getinvolved_donate.php" onMouseOver="setMenu('menuSubThree')" onMouseOut="clearMenu('menuSubThree')"><strong>Get Involved</strong></a></li>
-                                <li><a href="http://www.facebook.com/thegroundbreakers" target="_blank"><strong>News &amp; Insights</strong></a></li>
-                                <li><a href="contact.php"><strong>Contact</strong></a></li>
-                            </ul>
-                            <ul id="menuSubOne" class="menuVert" onMouseOver="setMenu('menuSubOne')" onMouseOut="clearMenu('menuSubOne')">
-                                <li><a href="about_gb.php">Mission/Vision</a></li>
-                                <li><a href="about_leadership.php">Leadership Bios</a></li>
-                                <li><a href="about_partners.php">Partners &amp; Supporters</a></li>
-                            </ul>
-                             <ul id="menuSubTwo" class="menuVert" onMouseOver="setMenu('menuSubTwo')" onMouseOut="clearMenu('menuSubTwo')">
-                                 <li><a href="farm.php">About the Farm</a></li>
-                                 <li><a href="farm_directions.php">Directions</a></li>
-                            </ul>
-                            <ul id="menuSubThree" class="menuVert" onMouseOver="setMenu('menuSubThree')" onMouseOut="clearMenu('menuSubThree')">         
-                                 <li><a href="getinvolved_donate.php">Contribute</a></li>
-                                 <li><a href="getinvolved_volunteer.php">Volunteer</a></li>
-                            </ul>
-                   </div><!--end menuTop-->
-                   
-                 </div><!--end header right-->
-	 		 </div><!--end header-->
-                
+   <?php include('includes/inc_header.php'); ?>
             
               <div id="contentFront">
       	 <div id="slideshow">
-                <img src="images/slide1a.jpg"/>
-                <img src="images/slide2a.jpg" style="display:none"/>
-                <img src="images/slide3a.jpg" style="display:none"/>
-                <img src="images/slide4a.jpg" style="display:none"/>
-                <img src="images/slide5a.jpg" style="display:none"/>
-                <img src="images/slide6a.jpg" style="display:none"/>
-                <img src="images/slide7a.jpg" style="display:none"/>
+                <img src="images/slide1a.jpg" alt="slide image" />
+                <img src="images/slide2a.jpg" alt="slide image" style="display:none"/>
+                <img src="images/slide3a.jpg" alt="slide image" style="display:none"/>
+                <img src="images/slide4a.jpg" alt="slide image" style="display:none"/>
+                <img src="images/slide5a.jpg" alt="slide image" style="display:none"/>
+                <img src="images/slide6a.jpg" alt="slide image" style="display:none"/>
+                <img src="images/slide7a.jpg" alt="slide image" style="display:none"/>
          </div>
                 
               
@@ -121,6 +27,7 @@
                         reclaim independence, self-worth, and self-respect. </p>
                         <span class="detail"><a href="aboutus.php">[Read more about us]</a></span> 
                     </div><!--end left column-->
+                    
     				<div id="centar_right">
                     
                     <div id="centar" class="column">
@@ -164,4 +71,4 @@
 		
 	</body>
 
-</php>
+</html>

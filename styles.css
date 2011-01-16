@@ -49,6 +49,8 @@ a:hover {color:#666;}
 		margin: 0 5px;
 		padding: 0 10px;
 		min-height:300px;
+		/*border-left:1px solid #fff;
+		border-right:1px solid #fff;*/
 		}
 #side_nav p{
 		margin:20px 15px 10px;	}
@@ -59,6 +61,8 @@ a:hover {color:#666;}
 		width:230;
 		margin: 0 5px;
 		padding:0 5px;
+		/*border-left:1px solid #fff;
+		border-right:1px solid #fff;*/
 		min-height:300px;
 		}
 #aboutme p{margin:90px 20px;}
@@ -69,6 +73,8 @@ a:hover {color:#666;}
 		margin: 0 5px;
 		padding:0 10px;
 		min-height:300px;
+		/*border-left:1px solid #fff;
+		border-right:1px solid #fff;*/
 		}
 #homework p{margin:20px 45px;	}
 	

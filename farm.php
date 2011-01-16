@@ -1,39 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-	<head>
-		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-		
-		<title>Groundbreakers</title>
-   
-
- <link rel="stylesheet" href="nivo-slider.css" type="text/css" media="screen" />
- <link rel="stylesheet" href="gb_styles.css" type="text/css" media="screen" />
- 
-<script type="text/javascript" src="js/bw-menu.js"></script>
-<script type="text/javascript" src="js/jquery-1.4.2.js"></script>
-<script type="text/javascript" src="js/jquery.corner.js"></script>
-<script src="js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
-<script type="text/javascript">
-	
-	
-	// function for dropdown paint effect
-		
-
-			
-			
-			$(function()
-				{	
-					$("#header_left").corner("40px");
-					
-					
-					
-				}); 
-
-</script>
-
-	</head>
+		<?php include('includes/inc_head.php'); ?>
 
 	<body>
     
@@ -42,18 +7,20 @@
            
       <div id="content">
       		<div id="content_left">
-	            <p><strong>How It Works</strong></p>
-	        	<ul>
-	                <li class="active"><a href="farming.php">Vocational Farming</a></li>
-	                <li class="active"><a href="training.php">Training Program Overview</a></li>
-	                <li class="active"><a href="farm.php">About the Farm</a></li>
-	                <li class="active"><a href="results.php">Results</a></li>	
-	                <li class="active"><a href="farm_directions.php">Directions</a></li>               
-	            </ul>
-                <<a href="getinvolved_donate.php">
-	            		<img src="images/contribute_button.jpg" alt="contribute"/>
-	            </a>
-                       
+               <p><strong>The Farm</strong></p>
+        	<ul>
+            	<li class="active"><a href="farm.php">About Farm</a></li>
+                <li><a href="farm_directions.php">&raquo; Directions</a></li>
+               
+            </ul>
+            
+             <a href="getinvolved_donate.php"><img src="images/contribute_button.jpg" alt="dontate button" /></a>
+             
+             
+            
+           
+           <!--<p><img src="images/eggplant.jpg" alt="eggplant" /></p>-->
+            
       		</div><!--end content left-->
       
             <div id="content_right">

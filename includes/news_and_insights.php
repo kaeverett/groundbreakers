@@ -19,7 +19,7 @@
                                 <li><a href="about_gb.php" onMouseOver="setMenu('menuSubOne')" onMouseOut="clearMenu('menuSubOne')"><strong>About Us</strong></a></li>
                                 <li><a href="farm.php" onMouseOver="setMenu('menuSubTwo')" onMouseOut="clearMenu('menuSubTwo')"><strong>The Farm</strong></a></li>
                                 <li><a href="getinvolved_donate.php" onMouseOver="setMenu('menuSubThree')" onMouseOut="clearMenu('menuSubThree')"><strong>Get Involved</strong></a></li>
-                                <li><a href="news_and_insights.php" target="_blank"><strong>News &amp; Insights</strong></a></li>
+                                <li><a href="news_and_insights.php" target="_blank"><strong>Follow Us</strong></a></li>
                                 <li><a href="contact.php"><strong>Contact</strong></a></li>
                             </ul>
                             <ul id="menuSubOne" class="menuVert" onMouseOver="setMenu('menuSubOne')" onMouseOut="clearMenu('menuSubOne')">

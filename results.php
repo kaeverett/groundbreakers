@@ -79,8 +79,10 @@ in Seattle, and
 		<p>Help us begin our inaugural field training class by contributing to Groundbreakers. Your contribution will help feed hungry people in King County and offer transferable skills that put people back to work and help them reclaim their self worth.</p>
 			
 		<p>   
-			<a href="farming.php">[See how the program works]</a>     
-			<a href="getinvolved_donate.php">[Contribute now]</a>
+			<a href="farming.php">See how the program works</a>  
+        	<a href="getinvolved_donate.php">
+        		<img src="images/contribute_button.jpg" alt="contribute" align="left"/>
+        	</a>
 		</p>
             
             </div> <!--end content right-->

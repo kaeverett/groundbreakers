@@ -63,7 +63,6 @@
                     <li><a href="#ray">Ray Zambroski - Business Development &amp; Operations</a></li>
                     <li><a href="#kate">Kate Donnelley - Events &amp; Administration</a></li>
                     <li><a href="#tel">Tel Jensen - Field Trainer &amp; Curriculum Manager</a></li>
-                    <li><a href="#gayle">Gayle Rose - Marketing &amp; Public Relations</a></li>
                    
                 </ul>
                 
@@ -98,11 +97,6 @@
             goats.</p>
 			<p><a href="mailto:tel@thegroundbreakers.org" target="_blank">Email Tel</a></p>
             
-            <a id="gayle"></a>
-            <h4><strong>Gayle Rose</strong>, <em>Marketing &amp; Public Relations</em></h4> <img src="images/gayle.jpg" alt="gayle image" />
-            <p>Gayle Rose is a difference maker for Groundbreakers by developing and connecting all things marketing and PR related. Her professional background includes 15 years experience in marketing strategy and branding for many top advertising agencies both domestically and abroad. She's a passionate (but not militant) vegetarian of more than 20 years and loves all things fitness oriented.  More than anything else, Gayle hopes that her life will have made a positive difference for others.</p>
-			<p><a href="mailto:gayle@thegroundbreakers.org" target="_blank">Email Gayle</a></p>
-
        	</div> <!--end content right-->
        
   </div><!--end content-->
